@@ -12,7 +12,7 @@
 ---
 [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ja)を入れたGoogle Chrome、もしくは、[Tampermonkey](https://addons.mozilla.org/ja/firefox/addon/tampermonkey/)を入れたFirefoxにて、  
 
-> [amzShowOpenOrders.user.js](https://github.com/furyutei/amzShowOpenOrders/raw/main/src/js/amzShowOpenOrders.user.js)
+> [amzShowOpenOrders.user.js](https://github.com/furyutei/amzShowOpenOrders/raw/master/src/js/amzShowOpenOrders.user.js)
 
 をクリックし、指示に従ってインストール。  
 
